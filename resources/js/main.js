@@ -15,28 +15,28 @@ $(function () {
 	                [
 					    { 
 					    	id: '12313',
-						    img: 'https://avatars3.githubusercontent.com/u/5542777?v=3&s=220', 
+						    img: 'resources/images/img.png', 
 						    name: 'name', 
 						    price: 'price'
 						}, 
 
 					    { 
 					    	id: '123123',
-						    img: 'https://avatars3.githubusercontent.com/u/5542777?v=3&s=220', 
+						    img: 'resources/images/img.png', 
 						    name: 'name', 
 						    price: 'price'
 						}, 
 
 					    { 
 					    	id: '12313',
-						    img: 'https://avatars3.githubusercontent.com/u/5542777?v=3&s=220', 
+						    img: 'resources/images/img.png', 
 						    name: 'name', 
 						    price: 'price'
 						}, 
 
 					    { 
 					    	id: '123123',
-						    img: 'https://avatars3.githubusercontent.com/u/5542777?v=3&s=220', 
+						    img: 'resources/images/img.png', 
 						    name: 'name', 
 						    price: 'price'
 						}, 

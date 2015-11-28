@@ -3,11 +3,11 @@ Ajax数据请求模拟，可用于接口还未开通时候的模拟返回数据
 
 #### 主要插件
 
- - [jquery-mockjax](https://github.com/jakerella/jquery-mockjax)
+ - [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) 提供基本功能实现
 
- - [mockJSON](https://github.com/mennovanslooten/mockJSON)
+ - [mockJSON](https://github.com/mennovanslooten/mockJSON) 内置json和jsonp请求返回的处理
 
- - [jquery.tmpl](https://github.com/BorisMoore/jquery-tmpl)
+ - [jquery.tmpl](https://github.com/BorisMoore/jquery-tmpl) jq模板引擎
 
 #### 使用方法
 

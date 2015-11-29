@@ -22,14 +22,14 @@
 <div class="mzt-o-item" id="item3"></div>
 <!-- 模板 -->
 <script id="itemTemplate" type="text/x-jquery-tmpl"> 
-<div class="tpl_brand">
+<div class="brand">
     <a href='http://xxx?brandId=${$data.id}'>
-        <div class="tpl_pic">
-            <img class="lazy-load" src="${$data.img}" style="display: block;">
+        <div class="pic">
+            <img src="${$data.img}" style="display: block;">
         </div>
-        <div class="tpl_brand_msg rposition">
-            <p class="tpl_brand_name">${$data.name}</p>
-            <p class="tpl_brand_discount"><span class="salebg2">${$data.price}</span>折起</p>
+        <div class="brand_msg rposition">
+            <p class="brand_name">${$data.name}</p>
+            <p class="brand_discount"><span>${$data.price}</span>折起</p>
         </div>
     </a>
 </div>
